@@ -2,7 +2,6 @@ package com.example.javaMailSender.controller;
 
 import com.example.javaMailSender.entity.EmailStructure;
 import com.example.javaMailSender.service.MailSenderService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
